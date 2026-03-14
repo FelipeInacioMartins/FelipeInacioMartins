@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Felipe Inacio Martins
 
-**`Desenvolvedor Back-end`**
+**`Desenvolvedor`**
 
 Me chamo Felipe Inacio Martins, tenho 17 anos e sou natural do Paraná. Concluí o ensino médio em escola pública, juntamente com um curso técnico em Informática.
 Atualmente, estou cursando Engenharia de Software na Unicesumar. Tenho grande paixão por tecnologia e busco aprendizado contínuo.
