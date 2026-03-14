@@ -23,7 +23,7 @@ Procuro me aprofundar na área de desenvolvimento, onde surgiu meu interesse pel
          <img 
             alt="total stars" 
             title="Total stars on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"
+            src="https://custom-icon-badges.demolab.com/github/stars/FelipeInacioMartins?color=55960c&style=for-the-badge&labelColor=488207&logo=star"
    /></a>
       <a href="https://github.com/FelipeInacioMartins?tab=followers">
          <img
